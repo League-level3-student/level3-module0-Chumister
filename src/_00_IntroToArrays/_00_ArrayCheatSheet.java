@@ -41,4 +41,9 @@ array[2]= "9";
 
 }
 
+	private static char[] Random(int i) {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
 }
